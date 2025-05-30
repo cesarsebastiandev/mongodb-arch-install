@@ -28,7 +28,7 @@ sudo pacman -Syu
 ## Clonar el repo desde AUR
 
 ```
-git clone https://aur.archlinux.org/packages/mongodb-bin/
+git clone https://aur.archlinux.org/mongodb-bin.git
 ```
 ---
 
