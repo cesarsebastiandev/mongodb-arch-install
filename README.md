@@ -28,6 +28,35 @@ sudo pacman -Syu
 ## Clonar el repo desde AUR
 
 ```
+git clone https://aur.archlinux.org/mongosh-bin.git
+```
+---
+
+## Ubicarnos en la carpeta
+
+```
+cd mongosh-bin
+```
+---
+
+## Compila e instala el cliente oficial de mongodb
+
+```
+makepkg -si
+```
+---
+
+## Escribir lo siguiente para volver a la raiz
+
+```
+cd
+```
+---
+
+
+## Clonar el repo desde AUR
+
+```
 git clone https://aur.archlinux.org/mongodb-bin.git
 ```
 ---
@@ -39,7 +68,7 @@ cd mongodb-bin
 ```
 ---
 
-## Compila e instala mongodb
+## Compila e instala el server de mongodb
 
 ```
 makepkg -si
