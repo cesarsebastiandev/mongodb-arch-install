@@ -1,4 +1,4 @@
-## Personalización de la terminal de ArchLinux
+## Instrucciones de como instalar mongodb en ArchLinux
 
 Este es el repositorio con instrucciones del video de YouTube: [PENDIENTE](PENDIENTE) 
 
