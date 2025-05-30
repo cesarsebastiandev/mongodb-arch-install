@@ -25,7 +25,7 @@ sudo pacman -Syu
 ```
 ---
 
-## Clonar el repo desde AUR
+## Clonar el repo del paquete del shell de mongodb desde AUR
 
 ```
 git clone https://aur.archlinux.org/mongosh-bin.git
@@ -54,7 +54,7 @@ cd
 ---
 
 
-## Clonar el repo desde AUR
+## Clonar el repo del paquete del server de mongodb desde AUR
 
 ```
 git clone https://aur.archlinux.org/mongodb-bin.git
@@ -78,7 +78,7 @@ makepkg -si
 
 ## Ver el status de mondodb
 ```
-sudo systemctl status mongod
+sudo systemctl status mongodb
 ```
 ---
 
