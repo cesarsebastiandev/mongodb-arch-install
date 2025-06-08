@@ -1,10 +1,10 @@
 ## Instrucciones de como instalar mongodb en ArchLinux
 
-Este es el repositorio con instrucciones del video de YouTube: [PENDIENTE](PENDIENTE) 
+Este es el repositorio con instrucciones del video de YouTube: [Instala MongoDB en Arch Linux y Derivados | Guía paso a paso sin errores ✅](https://youtu.be/RkFwr6nMunE?si=WWsWHYKISwaVjg21) 
 
 ## Apóyanos
 
-[Suscríbete](https://www.youtube.com/@CesarSebastianDev?sub_confirmation=1) a nuestro canal de YouTube
+[Suscríbete](https://www.youtube.com/@CesarSebastianDev?sub_confirmation=1) a mi canal de YouTube
 
 Donaciones por Paypal: [https://www.paypal.com/donate/?hosted_button_id=UNLT89FVZF6TE](https://www.paypal.com/donate/?hosted_button_id=UNLT89FVZF6TE)
 
