@@ -119,7 +119,7 @@ use usersdb
 ```
 db.users.insertOne({ name: "SEBASTIAN", age: 24 })
 ```
-## Creamos una base de datos
+## Hacemos una consulta de los usuarios en la base de datos
 ```
 db.users.find()
 ```
